@@ -43,7 +43,7 @@
     <link href="http://example.com/2024/10/24/test-systematically/"/>
     <id>http://example.com/2024/10/24/test-systematically/</id>
     <published>2024-10-24T14:18:59.000Z</published>
-    <updated>2024-10-24T14:19:16.972Z</updated>
+    <updated>2024-10-24T15:16:29.544Z</updated>
     
     
       
@@ -56,6 +56,8 @@
       
     
     
+    
+    <category term="1" scheme="http://example.com/categories/1/"/>
     
     
   </entry>
