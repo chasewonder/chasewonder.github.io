@@ -1,0 +1,50 @@
+---
+import Icon from './Icon.astro';
+
+const links = [
+  { href: '/archive', label: 'Archive', icon: 'archive' as const },
+  { href: '/tags', label: 'Tags', icon: 'tags' as const },
+  { href: '/about', label: 'About', icon: 'about' as const },
+  {
+    href: 'https://github.com/chasewonder',
+    label: 'GitHub',
+    icon: 'github' as const,
+    external: true,
+  },
+  { href: '/rss.xml', label: 'RSS', icon: 'rss' as const },
+];
+---
+
+<header class="site-header reveal">
+  <a class="site-logo" href="/">Chase's blog</a>
+  <nav aria-label="Primary navigation">
+    <ul class="header-links">
+      {
+        links.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              aria-label={link.label}
+              title={link.label}
+              target={link.external ? '_blank' : undefined}
+              rel={link.external ? 'noreferrer noopener' : undefined}
+            >
+              <Icon name={link.icon} />
+            </a>
+          </li>
+        ))
+      }
+      <li>
+        <button
+          class="theme-toggle"
+          type="button"
+          aria-label="Toggle color theme"
+          title="Toggle theme"
+          data-theme-toggle
+        >
+          <Icon name="theme" />
+        </button>
+      </li>
+    </ul>
+  </nav>
+</header>

@@ -1,0 +1,32 @@
+---
+import type { BlogPost } from '../utils/posts';
+import { formatDate, tagPath } from '../utils/posts';
+
+interface Props {
+  post: BlogPost;
+}
+
+const { post } = Astro.props;
+---
+
+<li class="post-card reveal">
+  <a class="post-card-title" href={`/posts/${post.id}`}>
+    <h2>{post.data.title}<span aria-hidden="true">→</span></h2>
+  </a>
+  <p class="post-card-description">{post.data.description}</p>
+  <div class="post-meta">
+    <time datetime={post.data.pubDate.toISOString()}>
+      {formatDate(post.data.pubDate)}
+    </time>
+    {
+      post.data.tags.length > 0 && (
+        <>
+          <span class="post-meta-divider" aria-hidden="true">—</span>
+          <div class="post-tags">
+            {post.data.tags.map((tag) => <a href={tagPath(tag)}>{tag}</a>)}
+          </div>
+        </>
+      )
+    }
+  </div>
+</li>

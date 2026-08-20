@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="210" y="150" width="780" height="1" fill="#ebeaea"/>
+  <text x="210" y="290" fill="#121111" font-size="88" font-family="Georgia,serif" font-weight="700">Chase's blog</text>
+  <text x="215" y="365" fill="#615b5b" font-size="30" font-family="Arial,sans-serif">Notes on learning, life, and everything in between.</text>
+  <rect x="210" y="460" width="780" height="1" fill="#ebeaea"/>
+</svg>
