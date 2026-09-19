@@ -263,7 +263,7 @@ svg {
   font-size: clamp(24px, 5vw, 28px);
   font-weight: 400;
   line-height: 1.5;
-  color: var(--text);
+  color: var(--strong);
 }
 
 .prose {
@@ -291,7 +291,7 @@ svg {
 .prose h2,
 .prose h3,
 .prose h4 {
-  color: var(--text);
+  color: var(--strong);
   font-weight: 400;
   scroll-margin-top: 24px;
 }
