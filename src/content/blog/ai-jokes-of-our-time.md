@@ -1,6 +1,6 @@
 ---
 title: 我们这个时代的AI笑话
-description: 按月收集我们这个时代的AI笑话。
+description: 如果在冬夜，一则轶闻
 pubDate: 2026-09-19
 tags:
   - AI
