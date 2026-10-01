@@ -43,9 +43,9 @@ draft: false
 
 ## 十月
 
-AI写作最严厉的父亲
+[![十月笑话配图：Gemini 4 Argon 位列 Text Arena 榜首的高清榜单](/images/posts/ai-jokes-of-our-time/october-gemini-argon-text-arena-meme.png)](/images/posts/ai-jokes-of-our-time/october-gemini-argon-text-arena-meme.png)
 
-[![十月笑话配图：Gemini 4 Argon 位列 Text Arena 榜首的榜单截图](/images/posts/ai-jokes-of-our-time/october-gemini-argon-text-arena-meme.jpeg)](/images/posts/ai-jokes-of-our-time/october-gemini-argon-text-arena-meme.jpeg)
+AI写作最严厉的父亲
 
 [![十月笑话配图：动漫角色将 Gemini 4 Argon 举到模型分级榜上方](/images/posts/ai-jokes-of-our-time/october-gemini-argon-tier-list-meme.png)](/images/posts/ai-jokes-of-our-time/october-gemini-argon-tier-list-meme.png)
 
