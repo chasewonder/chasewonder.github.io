@@ -22,6 +22,8 @@ draft: false
 - 顽岩，比较早加上的hr，目前还鸽着
 - 衍复，目前准备三面中
 - 九坤，目前准备二面中
+- optiver：做完笔试等面试中
+- js：hr面+round1，等round2
 
 ## AI
 
