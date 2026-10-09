@@ -25,6 +25,7 @@ draft: false
 - 九坤，目前准备二面中
 - optiver：做完笔试等面试中
 - js：hr面+round1，等round2
+- scientech，准备coding test
 
 ## AI
 
