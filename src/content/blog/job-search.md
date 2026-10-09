@@ -32,6 +32,6 @@ draft: false
 - 生数科技，数据岗，一面之后我拒掉了
 - 快手可灵 infra，一面的时候感觉面试官非常好，但最后拒掉（还正好碰上hr离职）
 - 小米LY，暂无消息
-- minimax，暂无消息
+- minimax，刚联系上hr
 - awaken AI infra，待一面
 - 宽得智能，目前对方还鸽着
