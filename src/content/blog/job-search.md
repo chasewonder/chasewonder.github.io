@@ -2,7 +2,7 @@
 title: 实习找工寄录
 description: 练练抗挫折能力
 pubDate: 2026-10-08
-updatedDate: 2026-10-11
+updatedDate: 2026-10-12
 tags:
   - 随笔
 draft: false
@@ -34,5 +34,5 @@ draft: false
 - 快手可灵 infra，一面的时候感觉面试官非常好，但最后拒掉（还正好碰上hr离职）
 - 小米LY，暂无消息
 - minimax，刚联系上hr
-- awaken AI infra，一面结束，等消息
+- awaken AI infra，一面之后被拒掉
 - 宽得智能，目前对方还鸽着
