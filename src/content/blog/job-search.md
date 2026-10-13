@@ -2,7 +2,7 @@
 title: 实习找工寄录
 description: 练练抗挫折能力
 pubDate: 2026-10-08
-updatedDate: 2026-10-12
+updatedDate: 2026-10-13
 tags:
   - 随笔
 draft: false
@@ -22,8 +22,8 @@ draft: false
 - 量派，当时笔试有7道然后周末忙炸了就没做了，目前还鸽着
 - 顽岩，比较早加上的hr，目前还鸽着
 - 衍复，目前准备三面中
-- 九坤，目前准备二面中
-- optiver：做完笔试等面试中
+- 九坤，二面完毕等消息
+- optiver：接到hr面
 - js：hr面+round1，等round2
 - scientech，发了coding test，我感觉没时间去日常实习就拒了
 
@@ -32,7 +32,8 @@ draft: false
 - 阶跃星辰，面试官非常不屑，一面拒掉
 - 生数科技，数据岗，一面之后我拒掉了
 - 快手可灵 infra，一面的时候感觉面试官非常好，但最后拒掉（还正好碰上hr离职）
-- 小米LY，暂无消息
-- minimax，刚联系上hr
 - awaken AI infra，一面之后被拒掉
+- 小米LY，暂无消息
+- minimax，准备一面中
 - 宽得智能，目前对方还鸽着
+- 爱诗科技，准备一面中
