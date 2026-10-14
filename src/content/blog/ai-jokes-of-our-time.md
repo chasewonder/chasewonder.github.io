@@ -2,7 +2,7 @@
 title: 我们这个时代的AI笑话
 description: 如果在冬夜，一则轶闻
 pubDate: 2026-09-19
-updatedDate: 2026-10-04
+updatedDate: 2026-10-14
 tags:
   - AI
   - 笑话
@@ -52,6 +52,10 @@ AI写作最严厉的父亲
 [![十月笑话配图：街头切糕摊，配文「吃切糕吗我的朋友」和「GPT 6 Astra」](/images/posts/ai-jokes-of-our-time/october-gpt-6-astra-qiegao-meme.png)](/images/posts/ai-jokes-of-our-time/october-gpt-6-astra-qiegao-meme.png)
 
 内部消息，v4pro 在 v4flash 和 glm5.3之间
+
+[![十月笑话配图：标有 Claude、ChatGPT、Wonder 和 Gemini 的角色对峙场景](/images/posts/ai-jokes-of-our-time/october-ai-model-standoff-meme.png)](/images/posts/ai-jokes-of-our-time/october-ai-model-standoff-meme.png)
+
+[![十月笑话配图：水下的三位动漫角色，上方横幅写着「国模憋气大赛」](/images/posts/ai-jokes-of-our-time/october-domestic-model-breath-holding-meme.jpeg)](/images/posts/ai-jokes-of-our-time/october-domestic-model-breath-holding-meme.jpeg)
 
 ## 十一月
 
