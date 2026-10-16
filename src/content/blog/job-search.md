@@ -25,7 +25,7 @@ draft: false
 - 衍复，目前准备三面中
 - 九坤，二面完毕等消息
 - optiver：接到hr面
-- js：hr面+round1，等round2
+- js：hr面+round1，准备约round2
 
 ## AI
 
@@ -33,7 +33,7 @@ draft: false
 - 生数科技，数据岗，一面之后我拒掉了
 - 快手可灵 infra，一面的时候感觉面试官非常好，但最后拒掉（还正好碰上hr离职）
 - awaken AI infra，一面之后被拒掉
+- 爱诗科技，一面拒掉
 - 小米LY，暂无消息
 - 宽得智能，目前对方还鸽着
-- minimax，准备一面中
-- 爱诗科技，准备一面中
+- minimax，已过一面，准备二面中，方向是推理框架
