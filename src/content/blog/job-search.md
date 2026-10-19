@@ -2,7 +2,7 @@
 title: 实习找工寄录
 description: 练练抗挫折能力
 pubDate: 2026-10-08
-updatedDate: 2026-10-16
+updatedDate: 2026-10-19
 tags:
   - 随笔
 draft: false
@@ -19,13 +19,14 @@ draft: false
 - 明泓，一面考python八股，直接寄了
 - 乾象，二面考python算法题，拒了
 - scientech，发了coding test，我感觉没时间去日常实习就拒了
+- 衍复，三面project做完之后拒掉
 - 姚泾河，好像是做自营的，只一面聊了一会情况就没跟进了
 - 量派，当时笔试有7道然后周末忙炸了就没做了，目前还鸽着
 - 顽岩，比较早加上的hr，目前还鸽着
-- 衍复，目前准备三面中
 - 九坤，二面完毕等消息
 - optiver：接到hr面
 - js：hr面+round1，准备约round2
+- hrt，收到coding test
 
 ## AI
 
@@ -36,4 +37,4 @@ draft: false
 - 爱诗科技，一面拒掉
 - 小米LY，暂无消息
 - 宽得智能，目前对方还鸽着
-- minimax，已过一面，准备二面中，方向是推理框架
+- minimax，进行完二面，等待消息中，方向是推理框架
