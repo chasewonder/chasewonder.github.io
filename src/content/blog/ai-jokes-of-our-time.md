@@ -2,7 +2,7 @@
 title: 我们这个时代的AI笑话
 description: 如果在冬夜，一则轶闻
 pubDate: 2026-09-19
-updatedDate: 2026-10-14
+updatedDate: 2026-11-03
 tags:
   - AI
   - 笑话
@@ -58,5 +58,7 @@ AI写作最严厉的父亲
 [![十月笑话配图：水下的三位动漫角色，上方横幅写着「国模憋气大赛」](/images/posts/ai-jokes-of-our-time/october-domestic-model-breath-holding-meme.jpeg)](/images/posts/ai-jokes-of-our-time/october-domestic-model-breath-holding-meme.jpeg)
 
 ## 十一月
+
+[![十一月笑话配图：围绕电脑和内存条展开的四格漫画](/images/posts/ai-jokes-of-our-time/november-computer-memory-meme.jpeg)](/images/posts/ai-jokes-of-our-time/november-computer-memory-meme.jpeg)
 
 ## 十二月
