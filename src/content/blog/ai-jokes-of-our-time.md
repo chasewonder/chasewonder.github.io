@@ -2,7 +2,7 @@
 title: 我们这个时代的AI笑话
 description: 如果在冬夜，一则轶闻
 pubDate: 2026-09-19
-updatedDate: 2026-11-15
+updatedDate: 2026-11-20
 tags:
   - AI
   - 笑话
@@ -64,5 +64,7 @@ AI写作最严厉的父亲
 [![十一月笑话配图：黑白画面中，穿长外套的动漫角色手持雨伞与 Navier–Stokes 书籍](/images/posts/ai-jokes-of-our-time/november-cautious-coding-meme.png)](/images/posts/ai-jokes-of-our-time/november-cautious-coding-meme.png)
 
 写代码，固然，好是好的——可是千万别出什么乱子！
+
+[![十一月笑话配图：带有 Claude、OpenAI 和 Gemini 标志的漫画角色，对话框写着「有这时间不如多发两个模型」](/images/posts/ai-jokes-of-our-time/november-release-more-models-meme.png)](/images/posts/ai-jokes-of-our-time/november-release-more-models-meme.png)
 
 ## 十二月
