@@ -15,6 +15,10 @@ draft: false
 
 机缘巧合看了《泰坦尼克号》。
 
+<a href="/images/posts/movies/titanic-bow.jpg" target="_blank" rel="noopener noreferrer" aria-label="查看《泰坦尼克号》船头剧照原图（新窗口）">
+  <img src="/images/posts/movies/titanic-bow.jpg" alt="《泰坦尼克号》剧照：Jack 与 Rose 在船头" width="2032" height="3004" style="width: auto; max-height: 640px;" loading="lazy" decoding="async" />
+</a>
+
 会出现我不喜欢电影的一点，是它有一种剧情感，总有巧合，曲折，然后高潮，特别是多次的起死回生。可能是因为电影中的这种巧合都非常让人容易预测了吧，但是现实不是这样的。但是在剧情的细节处，却可以反应出人性，是电影的厚度所在。
 
 自由，希望，功利，浮躁，脆弱，优越，虚伪，模仿，包容，贪欲，尊重，沉着，勇敢，开放，真诚，命运
@@ -74,6 +78,10 @@ draft: false
 > 没有一朵云，没有一棵树，是不美丽的。
 >
 > 人，是不可能让另外一个人，去教他怎么活下去，怎么过日子。
+
+<a href="/images/posts/movies/yi-yi-yang-yang-camera.jpg" target="_blank" rel="noopener noreferrer" aria-label="查看《一一》洋洋拍照剧照原图（新窗口）">
+  <img src="/images/posts/movies/yi-yi-yang-yang-camera.jpg" alt="《一一》剧照：洋洋在摆满相框的房间里举起相机" width="2000" height="1316" loading="lazy" decoding="async" />
+</a>
 
 看完整场电影，确实会去重新观察身边的人和自己的生活
 
