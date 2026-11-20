@@ -2,7 +2,7 @@
 title: 实习找工寄录
 description: 练练抗挫折能力
 pubDate: 2026-10-08
-updatedDate: 2026-11-15
+updatedDate: 2026-11-20
 tags:
   - 随笔
 draft: false
@@ -32,8 +32,10 @@ draft: false
 - 顽岩，比较早加上的hr，目前还鸽着
 - 九坤，二面完毕等消息
 - AXQ，做完coding test等面试（或者拒信，第二道用机器学习处理数据的题目完全没写）
-- Citidal|Citidal Securities，面试完第一轮，面试官是张博涵
+- Citidal|Citidal Securities，面试完第一轮，面试官是张博涵，二面结束等结果
 - IMC，写完oa等结果
+- drw，写完oa等结果
+- sig，ML research岗，准备一面
 
 ### AI
 
